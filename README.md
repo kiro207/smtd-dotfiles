@@ -1,5 +1,7 @@
 # Sublime Minimalism Theme: Dotfile
 
+![Preview](https://github.com/kiro207/smtd-dotfiles/blob/master/Preview.png)
+
 `Este es un pequeño archivo de configuración diseñado a mi gusto con varios archivos que he visto en Internet.`
 
 ## Setup
@@ -61,5 +63,3 @@
 >**`Los temas usados en este dotfile no son mios, por lo tanto creditos a los verdaderos creadores,`**
 **`Espero que les guste.`**
 ### Gracias :)
-
-# mstd
